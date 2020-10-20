@@ -26,3 +26,8 @@ More to come...
 - <b>shutil</b>
 - <b>ann_visualizer</b>
 - <b>google.colab</b>
+
+# Personal Notes
+
+* Forward Propagation: neutal net's way of classifying a set of inputs.
+* Neural nets = Pattern Recognition
